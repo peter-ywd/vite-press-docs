@@ -4,7 +4,6 @@ node_modules/
 # VitePress build output
 .vitepress/cache/
 .vitepress/dist/
-
 # Vite cache
 .vite/
 
@@ -34,5 +33,5 @@ Thumbs.db
 
 # Optional: Ignore package lock files (if you're using yarn or pnpm instead)
 package-lock.json
-yarn.lock
+# yarn.lock
 pnpm-lock.yaml
